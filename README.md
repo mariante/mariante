@@ -21,6 +21,11 @@ Sou desenvolvedor Full-Stack, criando aplicações desde 2020 e formado em Anál
     <img align="center" alt="Mariante-Ts" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Mariante-DotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt="Mariante-Sql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Mariante-Docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/docker/docker-original.svg">
+    <img align="center" alt="Mariante-Trello" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/trello/trello-plain.svg">
+    <img align="center" alt="Mariante-Git" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/git/git-original.svg">
+    <img align="center" alt="Mariante-Azure" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/azure/azure-original.svg">
+    <img align="center" alt="Mariante-Firebase" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/firebase/firebase-plain.svg">
     <!--
     <img align="center" alt="Mariante-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Mariante-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
