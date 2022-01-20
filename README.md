@@ -6,14 +6,12 @@ Sou desenvolvedor Full-Stack, criando aplicações desde 2020 e formado em Anál
 - 🕵️‍♂️ Tecnologias: Vue.Js, ASP.NET e MySql
 - 📋 Criação de APIs
 
-<div style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/mariante">
-    <img width="180" src="https://github-readme-stats.vercel.app/api?username=mariante&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariante&layout=compact&langs_count=7&theme=merko"/>
+    <img height="360" src="https://github-readme-stats.vercel.app/api?username=mariante&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariante&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
-
-  ##
   
 <div align="center">
   <a href="https://github.com/mariante">
