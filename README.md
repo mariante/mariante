@@ -8,8 +8,8 @@ Sou desenvolvedor Full-Stack, criando aplicações desde 2020 e formado em Anál
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/mariante">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariante&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariante&layout=compact&langs_count=7&theme=merko"/>
+    <img width="180" src="https://github-readme-stats.vercel.app/api?username=mariante&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariante&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
 
