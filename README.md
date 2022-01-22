@@ -38,6 +38,6 @@ Sou desenvolvedor Full-Stack, criando aplicações desde 2020 e formado em Anál
   ##
  
 <div align="right">
-  <a href="mailto:pablomariante.dm@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:pablomariante.dm@live.com"><img src="https://img.shields.io/badge/-E--MAIL-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablomariante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
