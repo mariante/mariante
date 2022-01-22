@@ -13,7 +13,7 @@ Sou desenvolvedor Full-Stack, criando aplicações desde 2020 e formado em Anál
   </a>
 </div>
 
-  ##
+  <br><br>
   
 <div align="center">
   <a href="https://github.com/mariante">
