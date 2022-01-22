@@ -12,6 +12,8 @@ Sou desenvolvedor Full-Stack, criando aplicações desde 2020 e formado em Anál
     <!--img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariante&layout=compact&langs_count=7&theme=gruvbox"/-->
   </a>
 </div>
+
+  ##
   
 <div align="center">
   <a href="https://github.com/mariante">
